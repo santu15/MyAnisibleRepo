@@ -12,7 +12,7 @@
      wait: yes
      group: webserver
      count: 1
-     region: us-east-1
+     region: Ohio
      security_group: ec2-security-group
    
    tasks:
